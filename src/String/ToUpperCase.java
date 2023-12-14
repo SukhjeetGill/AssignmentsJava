@@ -9,6 +9,7 @@ public class ToUpperCase {
         int c= s.length();
         s = s.toUpperCase();
         System.out.println("String in upper case is: " + s);
+
     }
 }
 
