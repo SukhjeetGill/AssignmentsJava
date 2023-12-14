@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments.iml" filepath="$PROJECT_DIR$/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Assignment1/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/src/Assignment1/IfElse/IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Assignment1/Loops/Loops.iml" filepath="$PROJECT_DIR$/src/Assignment1/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Assignment1/Method/Method.iml" filepath="$PROJECT_DIR$/src/Assignment1/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Assignment1/Overloading/Overloading.iml" filepath="$PROJECT_DIR$/src/Assignment1/Overloading/Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Assignment1/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/src/Assignment1/SwitchCase/SwitchCase.iml" />
+    </modules>
+  </component>
+</project>
