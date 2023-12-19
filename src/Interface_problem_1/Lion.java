@@ -1,4 +1,4 @@
-package Interfaces;
+package Interface_problem_1;
 
 public class Lion implements Animal{
 

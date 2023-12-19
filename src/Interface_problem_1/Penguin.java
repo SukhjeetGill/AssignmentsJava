@@ -1,4 +1,4 @@
-package Interfaces;
+package Interface_problem_1;
 
 public class Penguin implements Animal,Swimmable{
     @Override
