@@ -11,7 +11,8 @@ public class Main {
         double amountwithdrawn=0;
         double amountdeposit=0;
         Bank bank = new Bank(1000);
-        while(true){
+        boolean b=true;
+        while(b){
             System.out.println();
             System.out.println("Select from below: ");
             display();
@@ -52,7 +53,9 @@ public class Main {
                 break;
             case 'e':
                 System.out.println("Exiting the program. Thank you!");
-                System.exit(0);
+                b = false;
+                break;
+                //System.exit(0);
             default:
                 System.out.println("Invalid input");
         }
